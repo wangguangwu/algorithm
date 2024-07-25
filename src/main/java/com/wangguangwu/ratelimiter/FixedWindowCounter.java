@@ -1,4 +1,4 @@
-package com.wangguangwu.ratelimit;
+package com.wangguangwu.ratelimiter;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
